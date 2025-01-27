@@ -1,7 +1,7 @@
 # 💫 About Me:
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=25&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=%3A3+%3A3+%3A3+%3A3+%3A3+%3A3+%3A3+%3A3+%3A3+%3A3+%3A3+%3A3+;forced+to+use+js;ex+python+main;learning+go;I+use+arch+and+neovim+btw" alt="Typing SVG" /></p>
 
-I'm young developer from **Poland** <br>previously **Python** main now learning **Go** (cool language)<br>currently learning about APIs<br>born to write in normal language forced to use javascript
+I'm young developer from **Poland** <br>previously **Python** main now learning **Go** (cool language)<br>currently learning about Backend<br>born to write in normal language forced to use javascript
 
 
 # 💻 Tech Stack:
